@@ -27,5 +27,7 @@ The Personal Study Assistant is an end-to-end academic productivity system built
 
 ## Installation
 `git clone https://github.com/rishi7736/Personal-Study-Assistant.git`
+
 `cd Personal-Study-Assistant`
+
 `pip install -r requirements.txt`
